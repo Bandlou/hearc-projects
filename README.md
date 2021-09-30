@@ -1,4 +1,4 @@
-## Uperqt (BA thesis)
+## Uperqt - BA thesis
 - [Project poster](uperqt_poster.pdf) (FR)
 
 ## Valdi & the 4 Seasons
