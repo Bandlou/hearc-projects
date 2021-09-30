@@ -2,7 +2,7 @@
 TODO: pdf link
 
 ## Valdi & the 4 Seasons
-https://youtu.be/zzIR6NazFuk
+[![Valdi & the 4 Seasons](valdi_cover.png)](https://youtu.be/zzIR6NazFuk)
 
 ## 360° HE-Arc
-https://youtu.be/wWhQ7abRNOc
+[![360° HE-Arc](360_hearc_cover.png)](https://youtu.be/wWhQ7abRNOc)
