@@ -3,7 +3,7 @@ Contribution: Louis BANDELIER.
 
 A collaboration with [Cod.Act](https://codact.ch/en/) for their UPERQT project featuring a duel between two real robots.
 The goal was to develop an artificial intelligence to handle the robots' behaviors.
-In the end, a reinforcement learning approach managed to give the robot both precise and organic movements and to adapt to its opponent.  
+In the end, a reinforcement learning approach gave them both precise and organic movements and allowed them to constantly adapt to each others.  
 **Keywords**: Articulated Robot, Machine learning, Reinforcment Learning, ML-Agents, Unity.
 
 - [Project poster](uperqt_poster.pdf) (FR)
