@@ -2,8 +2,8 @@
 - [Project poster](uperqt_poster.pdf) (FR)
 
 ## Valdi & the 4 Seasons
-Contributors:
-- Code, Render Pipeline, Particle Effects, Lighting, Animations: Louis BANDELIER, Massimo DE SANTIS, Dimitri KOHLER, Julien DOS SANTOS FERREIRA.
+Contributors (Code, Render Pipeline, Particle Effects, Lighting, Animation):
+- Louis BANDELIER, Massimo DE SANTIS, Dimitri KOHLER, Julien DOS SANTOS FERREIRA.
 
 Demonstration video:
 - [https://youtu.be/zzIR6NazFuk](https://youtu.be/zzIR6NazFuk)
