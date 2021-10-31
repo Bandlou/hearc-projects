@@ -1,12 +1,15 @@
 ## Uperqt - BA thesis
 Contribution: Louis BANDELIER.
 
-[TODO: description]
+A collaboration with [Cod.Act](https://codact.ch/en/) for their UPERQT project featuring a duel between two real robots.
+The goal was to develop an artificial intelligence to handle the robots' behaviors.
+In the end, a reinforcement learning approach managed to give the robot both precise and organic movements and to adapt to its opponent.  
+**Keywords**: Articulated Robot, Machine learning, Reinforcment Learning, ML-Agents, Unity.
 
 - [Project poster](uperqt_poster.pdf) (FR)
 
 ## Valdi & the 4 Seasons
-Contribution for Game Logic, Render Pipeline, Particle Effects, Lighting, Animation, Season Transition Effect:
+Contribution (Game Logic, Render Pipeline, Particle Effects, Lighting, Animation, Season Transition Effect):
 - Louis BANDELIER, Massimo DE SANTIS, Dimitri KOHLER, Julien DOS SANTOS FERREIRA.
 
 Demonstration: [https://youtu.be/zzIR6NazFuk](https://youtu.be/zzIR6NazFuk)
