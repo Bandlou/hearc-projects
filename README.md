@@ -2,7 +2,8 @@
 - [Project poster](uperqt_poster.pdf) (FR)
 
 ## Valdi & the 4 Seasons
-Contributors (Game Logic, Render Pipeline, Particle Effects, Lighting, Animation, Season Transition Effect):
+### Contribution
+Game Logic, Render Pipeline, Particle Effects, Lighting, Animation, Season Transition Effect:
 - Louis BANDELIER, Massimo DE SANTIS, Dimitri KOHLER, Julien DOS SANTOS FERREIRA.
 
 Demonstration video:
