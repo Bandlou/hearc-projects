@@ -3,16 +3,17 @@
 
 ## Valdi & the 4 Seasons
 Contributors:
-- Louis BANDELIER
-- Massimo DE SANTIS
-- Dimitri KOHLER
-- Julien DOS SANTOS FERREIRA
+- Code, Render Pipeline, Particle Effects, Lighting, Animations: Louis BANDELIER, Massimo DE SANTIS, Dimitri KOHLER, Julien DOS SANTOS FERREIRA.
 
-[![Valdi & the 4 Seasons](valdi_cover.png)](https://youtu.be/zzIR6NazFuk)
+Demonstration video:
+- [https://youtu.be/zzIR6NazFuk](https://youtu.be/zzIR6NazFuk)
 
-- [Demonstration video](https://youtu.be/zzIR6NazFuk)
+![Valdi & the 4 Seasons](valdi_cover.png)
 
 ## 360° HE-Arc
-[![360° HE-Arc](360_hearc_cover.png)](https://youtu.be/wWhQ7abRNOc)
+Contributors: Louis BANDELIER.
 
-- [Demonstration video](https://youtu.be/wWhQ7abRNOc)
+Demonstration video:
+- [https://youtu.be/wWhQ7abRNOc](https://youtu.be/wWhQ7abRNOc)
+
+![360° HE-Arc](360_hearc_cover.png)
