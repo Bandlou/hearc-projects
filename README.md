@@ -13,7 +13,6 @@ Demonstration video:
 ## 360° HE-Arc
 Contributors: Louis BANDELIER.
 
-Demonstration video:
-- [https://youtu.be/wWhQ7abRNOc](https://youtu.be/wWhQ7abRNOc)
+Demonstration video: [https://youtu.be/wWhQ7abRNOc](https://youtu.be/wWhQ7abRNOc)
 
 ![360° HE-Arc](360_hearc_cover.png)
