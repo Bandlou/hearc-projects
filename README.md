@@ -1,5 +1,6 @@
 ## Uperqt - BA thesis
-Contribution: Louis BANDELIER.
+- Game engine: __Unity Engine__
+- Contribution: __Louis BANDELIER__
 
 A collaboration with [Cod.Act](https://codact.ch/en/) for their UPERQT project featuring a duel between two real robots.
 The goal was to develop an artificial intelligence to handle the robots' behaviors.
