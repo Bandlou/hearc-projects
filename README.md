@@ -7,6 +7,7 @@ The goal was to develop an artificial intelligence to handle the robots' behavio
 In the end, a reinforcement learning approach gave them both precise and organic movements and allowed them to constantly adapt to each others.  
 **Keywords**: Articulated Robot, Machine learning, Reinforcment Learning, ML-Agents, Unity.
 
+- Demonstration: [https://youtu.be/GXFP9obxsug](https://youtu.be/GXFP9obxsug)
 - [Project poster](uperqt_poster.pdf) (FR)
 
 ## Valdi & the 4 Seasons
